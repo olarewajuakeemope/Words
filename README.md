@@ -1,5 +1,5 @@
 # Words
-Words project for day2 bootcamp home study
+Words project
 
 1. Clone or download the application to your local computer
 2. Run npm install at the root directory
